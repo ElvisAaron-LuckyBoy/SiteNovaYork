@@ -1,0 +1,46 @@
+.section-container{
+    margin: auto;
+    max-width: 800px;
+}
+
+.menbers-grid{
+    max-width: 10px 10px 10px;
+    display: flex;
+    padding: 100px;
+}
+
+.section-title{
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.section-subtitle{
+    text-align: center;
+    font-style: italic;
+    opacity: 0.6;
+    margin: 15px 0;
+}
+
+.about-text{
+    text-align: justify;
+    margin-bottom: 30px;
+
+}
+
+.menbers-grid{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 32px 0;
+}
+
+.menbers-card img{
+    width: 160px;
+    border-radius: 4px;
+    margin-top: 15px;
+}
+
+
+
